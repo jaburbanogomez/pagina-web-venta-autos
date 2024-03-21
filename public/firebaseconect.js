@@ -4,7 +4,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, si
 import { getDatabase, ref, set, get, child } from "https://www.gstatic.com/firebasejs/10.3.1/firebase-database.js";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBheo29nQ3ozZ4s2l53rQwoFkBPufbbyE0",
+  apiKey: "",
   authDomain: "fir-with-5abbf.firebaseapp.com",
   projectId: "fir-with-5abbf",
   storageBucket: "fir-with-5abbf.appspot.com",
